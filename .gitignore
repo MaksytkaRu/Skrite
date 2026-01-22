@@ -1,3 +1,9 @@
 # Ignore weighty directories
 
 Library/
+
+# Ignore per-developer's environment directories
+
+Logs/
+Temp/
+UserSettings/
